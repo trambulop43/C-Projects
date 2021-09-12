@@ -1,0 +1,77 @@
+=================
+ID:1
+Enter Item :qweqweqw
+supplier name:qwe
+Item Price:200
+Item name:qweqwe
+Quantity:23
+ReOrder Value:5
+Item Category:qwea
+Item Unit of measure in:ft
+=================
+=================
+ID:2
+Enter Item :eqwe
+supplier name:qwe
+Item Price:300
+Item name:qwe
+Quantity:50
+ReOrder Value:10
+Item Category:as
+Item Unit of measure in:ft
+=================
+=================
+ID:3
+Enter Item :asd
+supplier name:qwe
+Item Price:200
+Item name:qwe
+Quantity:10
+ReOrder Value:5
+Item Category:qwe
+Item Unit of measure in:ft
+=================
+=================
+ID:4
+Enter Item :qwe
+supplier name:rr
+Item Price:200
+Item name:qwewea
+Quantity:50
+ReOrder Value:5
+Item Category:eqwe
+Item Unit of measure in:ft
+=================
+=================
+ID:5
+Enter Item :qweee
+supplier name:qwe
+Item Price:300
+Item name:rqr
+Quantity:20
+ReOrder Value:10
+Item Category:qe
+Item Unit of measure in:Ft
+=================
+=================
+ID:6
+Enter Item :qwe
+supplier name:asd
+Item Price:600
+Item name:eqwe
+Quantity:70
+ReOrder Value:15
+Item Category:qwe
+Item Unit of measure in:ft
+=================
+=================
+ID:7
+Item description:qwe
+supplier name:qweeee
+Item Price:200
+Item name:qweeasdzxc
+Quantity:50
+ReOrder Value:5
+Item Category:wood
+Item Unit of measure in:ft
+=================

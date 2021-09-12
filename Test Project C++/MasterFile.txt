@@ -1,0 +1,33 @@
+--------------------------------
+id:1
+Item Description:qweqwe
+supplier name:ABC
+Item value:300
+Item name:Plywood
+Quantity:50
+ReOrder Value:10
+Item Category:Build
+Item Unit of measure in:Ft
+--------------------------------
+--------------------------------
+id:2
+Item Description:asd
+supplier name:Corp
+Item value:200
+Item name:Stick
+Quantity:3
+ReOrder Value:5
+Item Category:Build
+Item Unit of measure in:Ft
+--------------------------------
+--------------------------------
+id:3
+Item Description:Fruit
+supplier name:Sto
+Item value:400
+Item name:apple
+Quantity:9
+ReOrder Value:10
+Item Category:qweeee
+Item Unit of measure in:pd
+--------------------------------

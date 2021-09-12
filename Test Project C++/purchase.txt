@@ -1,0 +1,83 @@
+
+date and time Updated:Thu Jan 21 22:18:30 2021
+
+--------------------------------
+id:2
+Item Description:asd
+supplier name:Corp
+Item value:200
+Item name:Stick
+Quantity:50
+ReOrder Value:5
+Item Category:Build
+Item Unit of measure in:Ft
+--------------------------------
+
+date and time Updated:Thu Jan 21 22:19:38 2021
+
+--------------------------------
+id:2
+Item Description:asd
+supplier name:Corp
+Item value:200
+Item name:Stick
+Quantity:3
+ReOrder Value:5
+Item Category:Build
+Item Unit of measure in:Ft
+--------------------------------
+
+date and time Updated:Thu Jan 21 22:20:14 2021
+
+
+--------------------------------
+id:3
+Item Description :Fruit
+supplier name:Sto
+Item value:400
+Item name:apple
+Quantity:9
+ReOrder Value:10
+Item Category:qweeee
+Item Unit of measure in:pd
+--------------------------------
+date and time Updated:Thu Jan 21 22:36:16 2021
+
+--------------------------------
+id:1
+Item Description:qweqwe
+supplier name:ABC
+Item value:300
+Item name:Plywood
+Quantity:50
+ReOrder Value:10
+Item Category:Build
+Item Unit of measure in:Ft
+--------------------------------
+
+date and time Updated:Thu Jan 21 22:43:29 2021
+
+--------------------------------
+id:1
+Item Description:qweqwe
+supplier name:ABC
+Item value:300
+Item name:Plywood
+Quantity:30
+ReOrder Value:10
+Item Category:Build
+Item Unit of measure in:Ft
+--------------------------------
+date and time Updated:Thu Jan 21 23:35:53 2021
+
+--------------------------------
+id:1
+Item Description:qweqwe
+supplier name:ABC
+Item value:300
+Item name:Plywood
+Quantity:50
+ReOrder Value:10
+Item Category:Build
+Item Unit of measure in:Ft
+--------------------------------

@@ -1,0 +1,44 @@
+=================
+ID:1
+Enter Item :qweqweqw
+supplier name:qwe
+Item Price:200
+Item name:qweqwe
+Quantity:50
+ReOrder Value:5
+Item Category:qwea
+Item Unit of measure in:ft
+=================
+=================
+ID:2
+Enter Item :eqwe
+supplier name:qwe
+Item Price:300
+Item name:qwe
+Quantity:50
+ReOrder Value:10
+Item Category:as
+Item Unit of measure in:ft
+=================
+=================
+ID:3
+Enter Item :asd
+supplier name:qwe
+Item Price:200
+Item name:qwe
+Quantity:50
+ReOrder Value:5
+Item Category:qwe
+Item Unit of measure in:ft
+=================
+=================
+ID:4
+Enter Item :qwe
+supplier name:rr
+Item Price:200
+Item name:qwewea
+Quantity:50
+ReOrder Value:5
+Item Category:eqwe
+Item Unit of measure in:ft
+=================
