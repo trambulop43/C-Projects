@@ -1,0 +1,19 @@
+-----------------------------------
+|   Thank you for ordering        |
+-----------------------------------
+
+ 
+Order No:1
+date:Thu Jan 21 13:06:56 2021
+
+1 Steak with mash potato -- 350
+Steak with mash potato -- 350
+________________________________
+Total:350
+
+
+Discount:0
+Cash:450
+Change:100
+
+ 

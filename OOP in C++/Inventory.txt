@@ -1,0 +1,35 @@
+================================
+ID:1
+Tag:bfs
+ItemName:burger, fries, soda
+Price:100
+Quantity:100
+================================
+================================
+ID:2
+Tag:css
+ItemName:chicken, spaghetti, soda
+Price:100
+Quantity:200
+================================
+================================
+ID:3
+Tag:crs
+ItemName:chicken, rice, soda
+Price:100
+Quantity:100
+================================
+================================
+ID:4
+Tag:brs
+ItemName:burger steak, rice, soda
+Price:100
+Quantity:100
+================================
+================================
+ID:5
+Tag:frs
+ItemName:fish fillet, rice, soda 
+Price:100
+Quantity:100
+=================

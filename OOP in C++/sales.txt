@@ -1,0 +1,63 @@
+===================================================
+cashier name: john doe
+employee number: 123
+ 
+order number: 1
+Order:burger, fries, soda 100      quantity: 3
+Total: 300
+cash: 300
+change: 0
+===================================================
+===================================================
+cashier name: john doe
+employee number: 123
+ 
+order number: 1
+Order:burger, fries, soda 100      quantity: 3
+Total: 300
+cash: 300
+change: 0
+===================================================
+===================================================
+cashier name: john doe
+employee number: 123
+ 
+order number: 1
+Order:burger, fries, soda 100      quantity: 3
+Total: 300
+cash: 300
+change: 0
+===================================================
+
+===================================================
+cashier name: john doe
+employee number: 123
+ 
+order number: 1
+Order:burger, fries, soda 100      quantity: 4
+Total: 400
+cash: 400
+change: 0
+===================================================
+
+===================================================
+cashier name: john doe
+employee number: 123
+ 
+order number: 1
+Order:burger, fries, soda 100      quantity: 2
+Total: 200
+cash: 200
+change: 0
+===================================================
+
+===================================================
+cashier name: john doe
+employee number: 1234
+ 
+order number: 1
+Order:burger, fries, soda 100      quantity: 3
+Total: 300
+cash: 300
+change: 0
+===================================================

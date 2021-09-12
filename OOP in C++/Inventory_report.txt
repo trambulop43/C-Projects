@@ -1,0 +1,40 @@
+================================
+ID:1
+ItemName:burger, fries, soda
+Waste:2
+Sales:5
+Initial:100
+Actual:24
+================================
+================================
+ID:2
+ItemName:chicken, spaghetti, soda
+Waste:0
+Sale:1
+Initial:100
+Actual:24
+================================
+================================
+ID:3
+ItemName:chicken, rice, soda
+Waste:0
+Sale:1
+Initial:100
+Actual:11
+================================
+================================
+ID:4
+ItemName:burger steak, rice, soda
+Waste:0
+Sale:1
+Initial:100
+Actual:11
+================================
+================================
+ID:5
+ItemName:fish fillet, rice, soda 
+Waste:0
+Sale:1
+Initial:100
+Actual:1
+================================
